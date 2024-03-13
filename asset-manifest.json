@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/component-tabs-carousel-accordian-/static/css/main.248edf8b.css",
+    "main.js": "/component-tabs-carousel-accordian-/static/js/main.a20cfca0.js",
+    "index.html": "/component-tabs-carousel-accordian-/index.html",
+    "main.248edf8b.css.map": "/component-tabs-carousel-accordian-/static/css/main.248edf8b.css.map",
+    "main.a20cfca0.js.map": "/component-tabs-carousel-accordian-/static/js/main.a20cfca0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248edf8b.css",
+    "static/js/main.a20cfca0.js"
+  ]
+}
